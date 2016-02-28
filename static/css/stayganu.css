@@ -1,0 +1,11 @@
+.jumbotron {
+    background: url(../../static/img/bg.jpg);
+    background-size: cover;
+    background-position: bottom center;
+    color: #FFF;
+}
+.homestay-card .card-title {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
