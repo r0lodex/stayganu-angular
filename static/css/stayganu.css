@@ -1,11 +1,21 @@
+.navbar, .jumbotron {
+    border-radius: 0;
+}
+
 .jumbotron {
+    margin-top: 0;
     background: url(../../static/img/bg.jpg);
     background-size: cover;
     background-position: bottom center;
     color: #FFF;
 }
+
 .homestay-card .card-title {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
 }
